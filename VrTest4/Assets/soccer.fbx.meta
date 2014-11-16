@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 9e495d2ba5bb4bd4cae5b86b60a28bcf
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube.003
+    100004: Cube.003_MeshPart0
+    100006: Cube.003_MeshPart1
+    100008: Cube.003_MeshPart2
+    100010: Cube.003_MeshPart3
+    100012: Cube.003_MeshPart4
+    100014: Cube.003_MeshPart5
+    100016: Cube.003_MeshPart6
+    100018: Cube.003_MeshPart7
+    100020: Cube.003_MeshPart8
+    100022: Plane
+    100024: //RootNode
+    100026: BezierCircle
+    100028: Camera
+    100030: Cube.001
+    100032: Cube.001_MeshPart0
+    100034: Cube.001_MeshPart1
+    100036: Cube.001_MeshPart2
+    100038: Lamp
+    400000: Cube
+    400002: Cube.003
+    400004: Cube.003_MeshPart0
+    400006: Cube.003_MeshPart1
+    400008: Cube.003_MeshPart2
+    400010: Cube.003_MeshPart3
+    400012: Cube.003_MeshPart4
+    400014: Cube.003_MeshPart5
+    400016: Cube.003_MeshPart6
+    400018: Cube.003_MeshPart7
+    400020: Cube.003_MeshPart8
+    400022: Plane
+    400024: //RootNode
+    400026: BezierCircle
+    400028: Camera
+    400030: Cube.001
+    400032: Cube.001_MeshPart0
+    400034: Cube.001_MeshPart1
+    400036: Cube.001_MeshPart2
+    400038: Lamp
+    2300000: Cube
+    2300002: Cube.003_MeshPart0
+    2300004: Cube.003_MeshPart1
+    2300006: Cube.003_MeshPart2
+    2300008: Cube.003_MeshPart3
+    2300010: Cube.003_MeshPart4
+    2300012: Cube.003_MeshPart5
+    2300014: Cube.003_MeshPart6
+    2300016: Cube.003_MeshPart7
+    2300018: Cube.003_MeshPart8
+    2300020: Plane
+    2300022: BezierCircle
+    2300024: Cube.001_MeshPart0
+    2300026: Cube.001_MeshPart1
+    2300028: Cube.001_MeshPart2
+    3300000: Cube
+    3300002: Cube.003_MeshPart0
+    3300004: Cube.003_MeshPart1
+    3300006: Cube.003_MeshPart2
+    3300008: Cube.003_MeshPart3
+    3300010: Cube.003_MeshPart4
+    3300012: Cube.003_MeshPart5
+    3300014: Cube.003_MeshPart6
+    3300016: Cube.003_MeshPart7
+    3300018: Cube.003_MeshPart8
+    3300020: Plane
+    3300022: BezierCircle
+    3300024: Cube.001_MeshPart0
+    3300026: Cube.001_MeshPart1
+    3300028: Cube.001_MeshPart2
+    4300000: Cube.003_MeshPart0
+    4300002: Cube.003_MeshPart1
+    4300004: Cube.003_MeshPart2
+    4300006: Cube.003_MeshPart3
+    4300008: Cube.003_MeshPart4
+    4300010: Cube.003_MeshPart5
+    4300012: Cube.003_MeshPart6
+    4300014: Cube.003_MeshPart7
+    4300016: Cube.003_MeshPart8
+    4300018: Cube
+    4300020: Plane
+    4300024: Cube.001_MeshPart0
+    4300026: Cube.001_MeshPart1
+    4300028: Cube.001_MeshPart2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

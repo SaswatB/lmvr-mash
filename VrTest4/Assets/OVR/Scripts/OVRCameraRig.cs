@@ -32,6 +32,11 @@ using UnityEngine;
 [ExecuteInEditMode]
 public class OVRCameraRig : MonoBehaviour
 {
+	
+	public Camera o_caml;
+	public Camera o_camr;
+	public Camera n_cam;
+
 	/// <summary>
 	/// The left eye camera.
 	/// </summary>
@@ -59,6 +64,21 @@ public class OVRCameraRig : MonoBehaviour
 #region Unity Messages
 	private void Awake()
 	{
+		
+		var onAndroid = false;
+
+		#if UNITY_ANDROID && !UNITY_EDITOR
+		onAndroid = true;
+		#endif
+
+		if (onAndroid) {
+			n_cam.enabled = true;
+			o_caml.enabled = false;
+			o_camr.enabled = false;
+			return;
+			
+		}
+
 		EnsureGameObjectIntegrity();
 		
 		if (!Application.isPlaying)
