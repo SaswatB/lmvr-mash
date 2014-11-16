@@ -59,6 +59,7 @@
      <None Include="Assets\OVR\Shaders\TextShader3D.shader" />
      <None Include="Assets\LeapMotion\Shaders\RimShading.shader" />
      <None Include="Assets\LeapMotion\Materials\Sources\Shaders\Toony-BasicOutline.shader" />
+     <None Include="Assets\sky5X\README.txt" />
      <None Include="Assets\LeapMotion\Materials\Sources\Shaders\Toony-LightedOutline.shader" />
      <None Include="Assets\LeapMotion\Materials\Sources\Shaders\Toony-Lighted.shader" />
      <None Include="Assets\OVR\Shaders\OVRGUIShader.shader" />

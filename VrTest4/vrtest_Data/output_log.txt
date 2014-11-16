@@ -10,11 +10,41 @@ Platform assembly: C:\Users\Saswat\Documents\Unity\VrTest4\vrtest_Data\Managed\U
 Loading C:\Users\Saswat\Documents\Unity\VrTest4\vrtest_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: C:\Users\Saswat\Documents\Unity\VrTest4\vrtest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
 Loading C:\Users\Saswat\Documents\Unity\VrTest4\vrtest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Saswat\Documents\Unity\VrTest4\vrtest_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Saswat\Documents\Unity\VrTest4\vrtest_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
 Platform assembly: C:\Users\Saswat\Documents\Unity\VrTest4\vrtest_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
 Loading C:\Users\Saswat\Documents\Unity\VrTest4\vrtest_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
-- Completed reload, in  0.040 seconds
+- Completed reload, in  0.044 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 2880x1620 59Hz; virtual: 2160x1215 at 0,0
 Platform assembly: C:\Users\Saswat\Documents\Unity\VrTest4\vrtest_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Saswat\Documents\Unity\VrTest4\vrtest_Data\Managed\System.dll (this message is harmless)
+CubeGrid ON
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Create CubeGrid
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+CubeGrid OFF
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+CubeGrid ON
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+CubeGrid OFF
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+CubeGrid ON
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+CubeGrid OFF
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
